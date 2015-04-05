@@ -1,0 +1,24 @@
+{
+  "name": "fixed-luminance",
+  "version": "1.0.0",
+  "description": "Change the hue of a color without changing the relative luminance",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/finnp/fixed-luminance.git"
+  },
+  "keywords": [
+    "color",
+    "luminance",
+    "relative"
+  ],
+  "author": "Finn Pauls",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/finnp/fixed-luminance/issues"
+  },
+  "homepage": "https://github.com/finnp/fixed-luminance"
+}
