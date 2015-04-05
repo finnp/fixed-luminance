@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/finnp/fixed-luminance/issues"
   },
-  "homepage": "https://github.com/finnp/fixed-luminance"
+  "homepage": "https://github.com/finnp/fixed-luminance",
+  "dependencies": {
+    "color": "^0.8.0"
+  }
 }
